@@ -1,2 +1,2 @@
 # aws-log-parser
-logparser - Log parser for AWS ELB logs from S3 from an AWSCLI enabled host
+logparser - Log parser for AWS ELB logs contained in S3. Meant to run from an AWSCLI enabled host
